@@ -1,4 +1,4 @@
-# 😊 **About Me:**
+# 😊 About Me:
 😊***Hi, I'm Murad. I am interested in Graphic design, UI/UX design, Interior design sectors, furthermore, Front-End, Back-End software and Cyber Security are also my interests. My goal is to be one of the best in Software and Cyber Security fields. So i participate in many events and gain new knowledge. I am developing my skills and progressing on my way to become a great for programmer.***
 
 
