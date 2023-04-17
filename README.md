@@ -14,7 +14,7 @@
 # 🌱 Technologies I will learn:
 
 ![C#](https://img.shields.io/badge/c%23-812E95.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-812E95.svg?style=for-the-badge&logo=c-++&logoColor=white)
+![C++](https://img.shields.io/badge/c++-812E95.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/python-316C99?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 
