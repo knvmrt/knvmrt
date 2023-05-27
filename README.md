@@ -39,8 +39,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=knvmrt&theme=radical&hide_border=true&include_all_commits=false&count_private=false&&bg_color=141321&show_icons=true)<br/>
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=knvmrt&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=141321) 
 <!-- [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=knvmrt&theme=radical&hide_border=true&include_all_commits=true&count_private=false)](https://github.com/knvmrt/github-readme-stats) -->
-<br><br/>
+<br>
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=knvmrt&theme=radical-dark&bg_color=141321&hide_border=true" width="100%"/>
+<br/>
+
     
 
 
