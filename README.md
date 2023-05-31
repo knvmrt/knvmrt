@@ -29,8 +29,9 @@
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/next.js-%23101010.svg?style=for-the-badge&logo=next.js&logoColor=%23ffffff)
+![Next.js](https://img.shields.io/badge/next.js-%23101010.svg?style=for-the-badge&logo=next.js&logoColor=%23ffffff) 
 ![Redux.js](https://img.shields.io/badge/redux.js-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=%23ffffff)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007BCE.svg?style=for-the-badge&logo=typescript&logoColor=%23ffffff)
 ![MySQL](https://img.shields.io/badge/mysql-3E6E93.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <br><br/>
 
