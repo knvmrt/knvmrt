@@ -33,6 +33,7 @@
 ![Redux.js](https://img.shields.io/badge/redux.js-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=%23ffffff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007BCE.svg?style=for-the-badge&logo=typescript&logoColor=%23ffffff)
 ![MySQL](https://img.shields.io/badge/mysql-3E6E93.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%233F9937.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 <br><br/>
 
 # 📊 GitHub Stats:
@@ -42,7 +43,7 @@
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=knvmrt&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=141321) 
 <!-- [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=knvmrt&theme=radical&hide_border=true&include_all_commits=true&count_private=false)](https://github.com/knvmrt/github-readme-stats) -->
 <br>
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=knvmrt&theme=radical-dark&bg_color=141321&hide_border=true" width="100%"/>
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=knvmrt&theme=radical-dark&bg_color=141321&hide_border=true" width="90%"/>
 <br/>
 
     
