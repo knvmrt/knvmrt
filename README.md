@@ -51,8 +51,8 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=knvmrt&theme=radical&hide_border=true&bg_color=141321)<br/>
-![](https://github-readme-stats.vercel.app/api?username=knvmrt&theme=radical&hide_border=true&include_all_commits=false&count_private=false&&bg_color=141321&show_icons=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=knvmrt&theme=radical&hide_border=true&bg_color=141321)
+![](https://github-readme-stats.vercel.app/api?username=knvmrt&theme=radical&hide_border=true&include_all_commits=false&count_private=false&&bg_color=141321&show_icons=true) 
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=knvmrt&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=141321) 
 <!-- [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=knvmrt&theme=radical&hide_border=true&include_all_commits=true&count_private=false)](https://github.com/knvmrt/github-readme-stats) -->
 [![KnvMrt activity graph](https://github-readme-activity-graph.vercel.app/graph?username=knvmrt&bg_color=141321&color=7a1c8d&line=b300a7&point=ff94f6&area=true&hide_border=true)](https://github.com/knvmrt)
