@@ -55,22 +55,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=knvmrt&theme=radical&hide_border=true&include_all_commits=false&count_private=false&&bg_color=141321&show_icons=true)<br/>
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=knvmrt&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=141321) 
 <!-- [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=knvmrt&theme=radical&hide_border=true&include_all_commits=true&count_private=false)](https://github.com/knvmrt/github-readme-stats) -->
-
-<!-- <br>
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=knvmrt&theme=radical-dark&bg_color=141321&hide_border=true" width="100%"/>
-<br/> -->
-
-    
-
-
-
-
-
-
-<!-- ## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=knvmrt&theme=radical&no-frame=true&bg_color=141321&margin-w=5) -->
-
+[![KnvMrt activity graph](https://github-readme-activity-graph.vercel.app/graph?username=knvmrt&bg_color=141321&color=7a1c8d&line=b300a7&point=ff94f6&area=true&hide_border=true)](https://github.com/knvmrt)
 
 ---
 [![knvmrt](https://visitcount.itsvg.in/api?id=knvmrt&icon=6&color=11)](https://github.com/knvmrt/)
