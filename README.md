@@ -61,4 +61,4 @@
 
 
 ---
-[![knvmrt](https://visitcount.itsvg.in/api?id=knvmrt&icon=6&color=11)](https://github.com/knvmrt/)
+[![knvmrt](https://visitcount.itsvg.in/api?id=knvmrt&icon=6&color=11)](https://github.com/knvmrt)
