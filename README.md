@@ -4,11 +4,11 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedIn&logoColor=white)](https://linkedin.com/in/knvmrt)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/knvmrt)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/knvmrtt)
 [![Behance](https://img.shields.io/badge/Behance-1769ff.svg?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/knvmrt)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/knvmrt)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/knvmrt)
-[![Threads](https://img.shields.io/badge/Threads-%23000000.svg?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@knvmrt)
+[![Threads](https://img.shields.io/badge/Threads-%23000000.svg?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@knvmrtt)
 [![Gmail](https://img.shields.io/badge/Gmail-%23FFFFFF.svg?style=for-the-badge&logo=gmail&logoColor=red)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlHnCDgLfvGMpcxzbKxxbHdvWMnxwSMzmBPztJDqSQKLwnhQbdwPJFKlZHfRjhLSqBksJB)
 <br><br/>
 
