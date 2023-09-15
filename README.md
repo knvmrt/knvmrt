@@ -1,6 +1,7 @@
 # 😊 About Me:
 😊***Hi, I'm Murad. Front-End, Back-End software and Cyber Security my interests. My goal is to be one of the best in Software and Cyber Security fields. So i participate in many events and gain new knowledge. I am developing my skills and progressing on my way to become a great for programmer.***
-<br><br/>
+
+#### ***I am a student at Compar Academy***
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedIn&logoColor=white)](https://linkedin.com/in/knvmrt)
