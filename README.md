@@ -20,7 +20,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![Tailwindcss](https://img.shields.io/badge/tailwindcss-%23202366.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/java%20script-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-%23101010.svg?style=for-the-badge&logo=next.js&logoColor=%23ffffff)
 ![Redux.js & Toolkit.js](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=%23ffffff) 
@@ -37,20 +37,20 @@
 # 🌱 Technologies I will learn:
 
 ![C#](https://img.shields.io/badge/c%23-812E95.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-2D7CD0.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/python-316C99?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-316C99?style=for-the-badge&logo=python&logoColor=ffe500)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/mysql-3E6E93.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%233F9937.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23306793.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/MSSQL-%23CC342D?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/mongodb-%2321313E.svg?style=for-the-badge&logo=mongodb&logoColor=00bf4c)
 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.Net](https://img.shields.io/badge/ASP.NET%20CORE-%230F72A4?style=for-the-badge&logo=asp.net&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23393937?style=for-the-badge&logo=express&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007BCE.svg?style=for-the-badge&logo=typescript&logoColor=%23ffffff)
 
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=%23ffffff)
+![UNREAL](https://img.shields.io/badge/unreal%20engine-%23101010.svg?style=for-the-badge&logo=unreal-engine&logoColor=white)
 <br><br/>
 
 # 📊 GitHub Stats:
