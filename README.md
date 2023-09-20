@@ -59,8 +59,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=knvmrt&theme=radical&hide_border=true&bg_color=141321)
 ![](https://github-readme-stats.vercel.app/api?username=knvmrt&theme=radical&hide_border=true&include_all_commits=true&count_private=false)
-
- ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=knvmrt&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=141321)
+![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=knvmrt&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=141321)
  <!-- [![KnvMrt Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=knvmrt&theme=radical&hide_border=true)](https://github.com/knvmrt) -->
  <!-- [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=knvmrt&theme=radical&hide_border=true&include_all_commits=true&count_private=false)](https://github.com/knvmrt) -->
 
