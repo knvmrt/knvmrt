@@ -30,6 +30,8 @@
 ![NPM](https://img.shields.io/badge/NPM-CC0910.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![GIT](https://img.shields.io/badge/Git-%23FF5427.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GITHUB](https://img.shields.io/badge/GitHub-%23081030.svg?style=for-the-badge&logo=github&logoColor=white)
+![JIRA](https://img.shields.io/badge/Jira-%232784FF.svg?style=for-the-badge&logo=jirasoftware&logoColor=white)
+![NOTION](https://img.shields.io/badge/notion-%23ffffff.svg?style=for-the-badge&logo=notion&logoColor=black)
 <br><br/>
 ![Windows](https://img.shields.io/badge/Windows-%231555ff.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
