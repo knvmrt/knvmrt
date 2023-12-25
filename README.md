@@ -13,6 +13,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/knvmrt)
 [![Threads](https://img.shields.io/badge/Threads-%23000000.svg?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@knvmrt)
 [![Gmail](https://img.shields.io/badge/Gmail-%23FFFFFF.svg?style=for-the-badge&logo=gmail&logoColor=red)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlHnCDgLfvGMpcxzbKxxbHdvWMnxwSMzmBPztJDqSQKLwnhQbdwPJFKlZHfRjhLSqBksJB)
+<!-- ![JIRA](https://img.shields.io/badge/Jira-%232784FF.svg?style=for-the-badge&logo=jirasoftware&logoColor=white)
+![NOTION](https://img.shields.io/badge/notion-%23ffffff.svg?style=for-the-badge&logo=notion&logoColor=black) -->
 <br><br/>
 
 # 💻 Software tech:
@@ -32,8 +34,6 @@
 ![NPM](https://img.shields.io/badge/NPM-CC0910.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![GIT](https://img.shields.io/badge/Git-%23FF5427.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GITHUB](https://img.shields.io/badge/GitHub-%23081030.svg?style=for-the-badge&logo=github&logoColor=white)
-![JIRA](https://img.shields.io/badge/Jira-%232784FF.svg?style=for-the-badge&logo=jirasoftware&logoColor=white)
-![NOTION](https://img.shields.io/badge/notion-%23ffffff.svg?style=for-the-badge&logo=notion&logoColor=black)
 ![MicrosoftSQLServer](https://img.shields.io/badge/MSSQL-%23CC342D?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 <br><br/>
 ![Windows](https://img.shields.io/badge/Windows-%231555ff.svg?style=for-the-badge&logo=windows&logoColor=white)
