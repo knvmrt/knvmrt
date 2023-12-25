@@ -13,8 +13,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/knvmrt)
 [![Threads](https://img.shields.io/badge/Threads-%23000000.svg?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@knvmrt)
 [![Gmail](https://img.shields.io/badge/Gmail-%23FFFFFF.svg?style=for-the-badge&logo=gmail&logoColor=red)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlHnCDgLfvGMpcxzbKxxbHdvWMnxwSMzmBPztJDqSQKLwnhQbdwPJFKlZHfRjhLSqBksJB)
-<!-- ![JIRA](https://img.shields.io/badge/Jira-%232784FF.svg?style=for-the-badge&logo=jirasoftware&logoColor=white)
-![NOTION](https://img.shields.io/badge/notion-%23ffffff.svg?style=for-the-badge&logo=notion&logoColor=black) -->
+<!-- ![JIRA](https://img.shields.io/badge/Jira-%232784FF.svg?style=for-the-badge&logo=jirasoftware&logoColor=white)  ![NOTION](https://img.shields.io/badge/notion-%23ffffff.svg?style=for-the-badge&logo=notion&logoColor=black) -->
 <br><br/>
 
 # 💻 Software tech:
