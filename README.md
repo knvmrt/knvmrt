@@ -27,11 +27,14 @@
 ![Next.js](https://img.shields.io/badge/next.js-%23101010.svg?style=for-the-badge&logo=next.js&logoColor=%23ffffff)
 ![Redux.js & Toolkit.js](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=%23ffffff) 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-812E95.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ASP.Net](https://img.shields.io/badge/ASP.NET%20CORE-%230F72A4?style=for-the-badge&logo=asp.net&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CC0910.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![GIT](https://img.shields.io/badge/Git-%23FF5427.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GITHUB](https://img.shields.io/badge/GitHub-%23081030.svg?style=for-the-badge&logo=github&logoColor=white)
 ![JIRA](https://img.shields.io/badge/Jira-%232784FF.svg?style=for-the-badge&logo=jirasoftware&logoColor=white)
 ![NOTION](https://img.shields.io/badge/notion-%23ffffff.svg?style=for-the-badge&logo=notion&logoColor=black)
+![MicrosoftSQLServer](https://img.shields.io/badge/MSSQL-%23CC342D?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 <br><br/>
 ![Windows](https://img.shields.io/badge/Windows-%231555ff.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
@@ -40,16 +43,14 @@
 
 # 🌱 Technologies I will learn:
 
-![C#](https://img.shields.io/badge/c%23-812E95.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-316C99?style=for-the-badge&logo=python&logoColor=ffe500)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%2302037D.svg?style=for-the-badge&logo=lua&logoColor=white)
 
-![MicrosoftSQLServer](https://img.shields.io/badge/MSSQL-%23CC342D?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/mongodb-%2321313E.svg?style=for-the-badge&logo=mongodb&logoColor=00bf4c)
 
-![ASP.Net](https://img.shields.io/badge/ASP.NET%20CORE-%230F72A4?style=for-the-badge&logo=asp.net&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23393937?style=for-the-badge&logo=express&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007BCE.svg?style=for-the-badge&logo=typescript&logoColor=%23ffffff)
