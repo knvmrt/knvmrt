@@ -28,7 +28,7 @@
 ![Next.js](https://img.shields.io/badge/next.js-%23101010.svg?style=for-the-badge&logo=next.js&logoColor=%23ffffff)
 ![Redux.js & Toolkit.js](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=%23ffffff) 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-812E95.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-812E95.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![ASP.Net](https://img.shields.io/badge/ASP.NET%20CORE-%230F72A4?style=for-the-badge&logo=asp.net&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CC0910.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![GIT](https://img.shields.io/badge/Git-%23FF5427.svg?style=for-the-badge&logo=git&logoColor=white) 
