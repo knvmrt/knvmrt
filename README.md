@@ -37,7 +37,6 @@
 <br><br/>
 ![Windows](https://img.shields.io/badge/Windows-%231555ff.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
-![MacOs](https://img.shields.io/badge/MacOS-%231F92EB.svg?style=for-the-badge&logo=apple&logoColor=white)
 <br><br/>
 
 # 🌱 Technologies I will learn:
