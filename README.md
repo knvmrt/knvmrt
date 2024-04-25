@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedIn&logoColor=white)](https://linkedin.com/in/knvmrt)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/knvmrt)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.reddit.com/user/knvmrtt/)
+[![Instagram](https://img.shields.io/badge/Reddit-%23FF4516.svg?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/knvmrtt/)
 [![Behance](https://img.shields.io/badge/Behance-1769ff.svg?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/knvmrt)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/knvmrt)
 [![Gmail](https://img.shields.io/badge/Gmail-%23FFFFFF.svg?style=for-the-badge&logo=gmail&logoColor=red)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlHnCDgLfvGMpcxzbKxxbHdvWMnxwSMzmBPztJDqSQKLwnhQbdwPJFKlZHfRjhLSqBksJB)
