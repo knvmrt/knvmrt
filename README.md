@@ -27,8 +27,8 @@
 ![Redux.js & Toolkit.js](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=%23ffffff)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-![C#](https://img.shields.io/badge/c%23-812E95.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![ASP.Net](https://img.shields.io/badge/ASP.NET%20CORE-%230F72A4?style=for-the-badge&logo=asp.net&logoColor=white)
+![C#](https://img.shields.io/static/v1?style=for-the-badge&message=C%23&color=%232D006C&logo=C%2B%2B&logoColor=FFFFFF&label)
+![ASP.NET Core](https://img.shields.io/static/v1?style=for-the-badge&message=ASP.NET%20Core&color=%236D439C&logo=.NET&logoColor=FFFFFF&label=)
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/MSSQL-%23CC342D?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
