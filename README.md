@@ -38,6 +38,8 @@
 ![GITHUB](https://img.shields.io/badge/GitHub-%23081030.svg?style=for-the-badge&logo=github&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/Docker-%231D63ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![POSTMAN](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![SUPABASE](https://img.shields.io/badge/supabase-%233DCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
+![Vite.js](https://img.shields.io/badge/vite-%23BC34FE.svg?style=for-the-badge&logo=vite&logoColor=%23ffffff)
 
 ![Windows](https://img.shields.io/badge/Windows-%231555ff.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
