@@ -23,14 +23,15 @@
 ![JavaScript](https://img.shields.io/badge/java%20script-%23223300.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/type%20script-%23002538.svg?style=for-the-badge&logo=typescript&logoColor=%233179C7)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-%23101010.svg?style=for-the-badge&logo=next.js&logoColor=%23ffffff)
 ![Redux.js & Toolkit.js](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=%23ffffff)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
 ![C#](https://img.shields.io/static/v1?style=for-the-badge&message=C%23&color=%232D006C&logo=C%2B%2B&logoColor=FFFFFF&label)
-![ASP.NET Core](https://img.shields.io/static/v1?style=for-the-badge&message=ASP.NET%20Core&color=%236D439C&logo=.NET&logoColor=FFFFFF&label=)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-![MicrosoftSQLServer](https://img.shields.io/badge/MSSQL-%23CC342D?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MS SQL](https://img.shields.io/badge/MSSQL-%23CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ![NPM](https://img.shields.io/badge/NPM-CC0910.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![nuGet](https://img.shields.io/badge/nuGet-%23004980.svg?style=for-the-badge&logo=nuget&logoColor=white)
@@ -48,24 +49,30 @@
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 
 ![MongoDB](https://img.shields.io/badge/mongodb-%2321313E.svg?style=for-the-badge&logo=mongodb&logoColor=00bf4c)
 
-<!-- 
+<!--
+# 🌿 What I know little about:
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=%23ffffff)
-![UNREAL](https://img.shields.io/badge/unreal%20engine-%23101010.svg?style=for-the-badge&logo=unreal-engine&logoColor=white)
 -->
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=knvmrt&theme=radical&hide_border=true&bg_color=141321)
 ![](https://github-readme-stats.vercel.app/api?username=knvmrt&theme=radical&hide_border=true&include_all_commits=true&count_private=false)
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=knvmrt&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=141321)
 
- <!-- [![KnvMrt Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=knvmrt&theme=radical&hide_border=true)](https://github.com/knvmrt) -->
- <!-- [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=knvmrt&theme=radical&hide_border=true&include_all_commits=true&count_private=false)](https://github.com/knvmrt) -->
+<!-- [![KnvMrt Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=knvmrt&theme=radical&hide_border=true)](https://github.com/knvmrt)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=knvmrt&theme=radical&hide_border=true&include_all_commits=true&count_private=false)](https://github.com/knvmrt) -->
 
 [![KnvMrt activity graph](https://github-readme-activity-graph.vercel.app/graph?username=knvmrt&bg_color=141321&color=7a1c8d&line=b300a7&point=ff94f6&area=true&hide_border=true)](https://github.com/knvmrt)
 
 ---
 
-[![knvmrt](https://visitcount.itsvg.in/api?id=knvmrt&icon=6&color=11)](https://github.com/knvmrt)
+<!-- [![knvmrt](https://visitcount.itsvg.in/api?id=knvmrt&icon=6&color=11)](https://github.com/knvmrt/) -->
