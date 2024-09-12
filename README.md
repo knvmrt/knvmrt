@@ -1,4 +1,4 @@
-![My GIF](https://share.creavite.co/dGFcnUsqUxycLyUl.gif)
+![Banner](https://media.discordapp.net/attachments/1227709566045655172/1283776003331588096/github-y-profil-banner.png?ex=66e43912&is=66e2e792&hm=7505f70bf868ee831bc532d221b1f136a53340a5d1f7ae2dbff3ecb53475458b&=&format=webp&quality=lossless&width=1440&height=330)
 
 # 😊 About Me:
 
