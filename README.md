@@ -1,5 +1,5 @@
 ![Banner](https://i.imgur.com/cIJwTmG.png)
-[![Ads Banner](https://i.imgur.com/jyP3tto.png)](https://github.com/knvmrt/my-developedia-az)
+[![Ads Banner](https://i.imgur.com/jyP3tto.png)](https://github.com/knvmrt/my-developedia-azerbaijan)
 
 # 😊 About Me:
 
