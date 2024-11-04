@@ -37,6 +37,7 @@
 ![nuGet](https://img.shields.io/badge/nuGet-%23004980.svg?style=for-the-badge&logo=nuget&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-%23FF5427.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/GitHub-%23081030.svg?style=for-the-badge&logo=github&logoColor=white)
+![GITLAB](https://img.shields.io/badge/GitLab-%23E1442A.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/Docker-%231D63ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![POSTMAN](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![SUPABASE](https://img.shields.io/badge/supabase-%233DCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
