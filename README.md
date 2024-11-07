@@ -59,18 +59,11 @@
 
 ![MongoDB](https://img.shields.io/badge/mongodb-%2321313E.svg?style=for-the-badge&logo=mongodb&logoColor=00bf4c)
 
-<!--
-# 🌿 What I know little about:
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=%23ffffff)
--->
-
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=knvmrt&theme=radical&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=knvmrt&theme=radical&hide_border=true&bg_color=141321)
-![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=knvmrt&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=141321)
+![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=knvmrt&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=141321)
 
 
 
@@ -81,4 +74,9 @@
 <!-- [![knvmrt](https://visitcount.itsvg.in/api?id=knvmrt&icon=6&color=11)](https://github.com/knvmrt/) 
  [![KnvMrt Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=knvmrt&theme=radical&hide_border=true)](https://github.com/knvmrt)
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=knvmrt&theme=radical&hide_border=true&include_all_commits=true&count_private=false)](https://github.com/knvmrt) 
+
+# 🌿 What I know little about:
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=%23ffffff)
 -->
