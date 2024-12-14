@@ -5,10 +5,6 @@
 
 😊 _**Hello, I am Murad. I am interested in the Full-Stack software industry and Cyber ​​Security is also among my areas of interest. My goal is to be one of the best in the fields of Software and Cyber ​​Security.**_
 
-![Codewars](https://www.codewars.com/users/knvmrt/badges/large)
-
-![Codewars](https://www.codewars.com/users/knvmrt/badges/small)
-
 ![Codewars](https://www.codewars.com/users/knvmrt/badges/micro)
 
 # 🌐 Socials:
@@ -65,7 +61,7 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=knvmrt&theme=radical&hide_border=true&include_all_commits=true&count_private=false) ![Codewars](https://www.codewars.com/users/knvmrt/badges/large)
+![](https://github-readme-stats.vercel.app/api?username=knvmrt&theme=radical&hide_border=true&include_all_commits=true&count_private=false) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=knvmrt&theme=radical&hide_border=true&bg_color=141321)
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=knvmrt&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=141321)
 
