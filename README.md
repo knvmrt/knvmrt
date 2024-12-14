@@ -5,7 +5,7 @@
 
 😊 _**Hello, I am Murad. I am interested in the Full-Stack software industry and Cyber ​​Security is also among my areas of interest. My goal is to be one of the best in the fields of Software and Cyber ​​Security.**_
 
-[![Codewars](https://www.codewars.com/users/knvmrt/badges/micro)](https;//www.codewars.com/r/Qwh9Ew)
+[![Codewars](https://www.codewars.com/users/knvmrt/badges/micro)](https://www.codewars.com/users/knvmrt)
 
 # 🌐 Socials:
 
