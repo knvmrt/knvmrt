@@ -48,9 +48,10 @@ _**I am a developer and technology enthusiast with a passion for software develo
 ![GITLAB](https://img.shields.io/badge/GitLab-%23E1442A.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/Docker-%231D63ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![POSTMAN](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/shadcn%20ui-%2309090B.svg?style=for-the-badge&logo=shadcnui&logoColor=%23ffffff)
 ![SUPABASE](https://img.shields.io/badge/supabase-%233DCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
 ![Vite.js](https://img.shields.io/badge/vite-%23BC34FE.svg?style=for-the-badge&logo=vite&logoColor=%23ffffff)
-![Shadcn UI](https://img.shields.io/badge/shadcn%20ui-%2309090B.svg?style=for-the-badge&logo=shadcnui&logoColor=%23ffffff)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=Vercel&logoColor=%23ffffff)
 
 ![Windows](https://img.shields.io/badge/Windows-%231555ff.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
@@ -59,7 +60,6 @@ _**I am a developer and technology enthusiast with a passion for software develo
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Deno](https://img.shields.io/badge/deno-%23000000?style=for-the-badge&logo=deno&logoColor=white)
 
 ![MongoDB](https://img.shields.io/badge/mongodb-%2321313E.svg?style=for-the-badge&logo=mongodb&logoColor=00bf4c)
@@ -85,3 +85,4 @@ _**I am a developer and technology enthusiast with a passion for software develo
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=%23ffffff)
 -->
+
