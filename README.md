@@ -39,7 +39,6 @@ _**I am a developer and technology enthusiast with a passion for software develo
 
 ![C#](https://img.shields.io/static/v1?style=for-the-badge&message=C%23&color=%232D006C&logo=C%2B%2B&logoColor=FFFFFF&label)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-
 ![MS SQL](https://img.shields.io/badge/MSSQL-%23CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ![NPM](https://img.shields.io/badge/NPM-CC0910.svg?style=for-the-badge&logo=npm&logoColor=white)
