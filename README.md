@@ -52,6 +52,7 @@ _**I am a developer and technology enthusiast with a passion for software develo
 ![SUPABASE](https://img.shields.io/badge/supabase-%233DCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
 ![Vite.js](https://img.shields.io/badge/vite-%23BC34FE.svg?style=for-the-badge&logo=vite&logoColor=%23ffffff)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=Vercel&logoColor=%23ffffff)
+![Figma](https://img.shields.io/badge/Figma-%231E1E1E.svg?style=for-the-badge&logo=figma&logoColor=%23ffffff)
 
 ![Windows](https://img.shields.io/badge/Windows-%231555ff.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
