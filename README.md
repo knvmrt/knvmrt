@@ -24,50 +24,50 @@ _**I am a developer and technology enthusiast with a passion for software develo
 
 # 💻 Software tech:
 
-<img src="./img/html.png" alt="HTML" width="40" height="40" title="HTML"/>
-<img src="./img/css.png" alt="CSS" width="40" height="40" title="CSS"/>
-<img src="./img/sass.png" alt="SASS" width="40" height="40" title="SASS / SCSS"/>
-<img src="./img/less.png" alt="LESS" width="40" height="40" title="LESS"/>
-<img src="./img/bootstrap.png" alt="Bootstrap" width="40" height="40" title="Bootstrap"/>
-<img src="./img/tailwincss.png" alt="Tailwindcss" width="40" height="40" title="Tailwindcss"/>
-<img src="./img/javascript.png" alt="JavaScript" width="40" height="40" title="JavaScript"/>
-<img src="./img/typescript.png" alt="TypeScript" width="40" height="40" title="TypeScript"/>
-<img src="./img/react.png" alt="React" width="40" height="40" title="React.js"/>
-<img src="./img/next.png" alt="Next" width="40" height="40" title="Next.js"/>
-<img src="./img/redux.png" alt="Redux" width="40" height="40" title="Redux / Redux ToolKit"/>
-<img src="./img/jquery.png" alt="jQuery" width="40" height="40" title="jQuery"/>
+<img src="./image/html.png" alt="HTML" width="40" height="40" title="HTML"/>
+<img src="./image/css.png" alt="CSS" width="40" height="40" title="CSS"/>
+<img src="./image/sass.png" alt="SASS" width="40" height="40" title="SASS / SCSS"/>
+<img src="./image/less.png" alt="LESS" width="40" height="40" title="LESS"/>
+<img src="./image/bootsratp.png" alt="Bootstrap" width="40" height="40" title="Bootstrap"/>
+<img src="./image/tailwindcss.png" alt="Tailwindcss" width="40" height="40" title="Tailwindcss"/>
+<img src="./image/javascript.png" alt="JavaScript" width="40" height="40" title="JavaScript"/>
+<img src="./image/typescript.png" alt="TypeScript" width="40" height="40" title="TypeScript"/>
+<img src="./image/react.png" alt="React" width="40" height="40" title="React.js"/>
+<img src="./image/next.png" alt="Next" width="40" height="40" title="Next.js"/>
+<img src="./image/redux.png" alt="Redux" width="40" height="40" title="Redux / Redux ToolKit"/>
+<img src="./image/jquery.png" alt="jQuery" width="40" height="40" title="jQuery"/>
 
-<img src="./img/csharp.png" alt="CSharp" width="40" height="40" title="C#"/>
-<img src="./img/dotnet.png" alt="DotNet" width="40" height="40" title=".NET"/>
-<img src="./img/ms-sql.png" alt="MS-SQL" width="40" height="40" title="MS-SQL"/>
+<img src="./image/csharp.png" alt="CSharp" width="40" height="40" title="C#"/>
+<img src="./image/dotnet.png" alt="DotNet" width="40" height="40" title=".NET"/>
+<img src="./image/msql.png" alt="MS-SQL" width="40" height="40" title="MS-SQL"/>
 
-<img src="./img/npm.png" alt="NPM" width="40" height="40" title="NPM"/>
-<img src="./img/nuget.png" alt="NuGet" width="40" height="40" title="NuGet"/>
-<img src="./img/git.png" alt="Git" width="40" height="40" title="Git"/>
-<img src="./img/github.png" alt="GitHub" width="40" height="40" title="GitHub"/>
-<img src="./img/gitlab.png" alt="GitLab" width="40" height="40" title="GitLab"/>
-<img src="./img/docker.png" alt="Docker" width="40" height="40" title="Docker"/>
-<img src="./img/postman.png" alt="Postman" width="40" height="40" title="Postman"/>
-<img src="./img/shadcn.png" alt="ShadcnUI" width="40" height="40" title="ShadcnUI"/>
-<img src="./img/supabase.png" alt="Supabase" width="40" height="40" title="Supabase"/>
-<img src="./img/vite.png" alt="Vite" width="40" height="40" title="Vite.js"/>
-<img src="./img/vercel.png" alt="Vercel" width="40" height="40" title="Vercel"/>
-<img src="./img/figma.png" alt="Figma" width="40" height="40" title="Figma"/>
-<img src="./img/vscode.png" alt="VSCode" width="40" height="40" title="Visual Studio Code"/>
-<img src="./img/visualstudio.png" alt="VS" width="40" height="40" title="Visual Studio"/>
-<img src="./img/notepadpp.png" alt="NotepadPP" width="40" height="40" title="Notepad++"/>
-<img src="./img/virtualboxvm.png" alt="VirtualBoxVM" width="40" height="40" title="Oracle VM VirtualBox"/>
+<img src="./image/npm.png" alt="NPM" width="40" height="40" title="NPM"/>
+<img src="./image/nuget.png" alt="NuGet" width="40" height="40" title="NuGet"/>
+<img src="./image/git.png" alt="Git" width="40" height="40" title="Git"/>
+<img src="./image/github.png" alt="GitHub" width="40" height="40" title="GitHub"/>
+<img src="./image/gitlab.png" alt="GitLab" width="40" height="40" title="GitLab"/>
+<img src="./image/docker.png" alt="Docker" width="40" height="40" title="Docker"/>
+<img src="./image/postman.png" alt="Postman" width="40" height="40" title="Postman"/>
+<img src="./image/shadcn.png" alt="ShadcnUI" width="40" height="40" title="ShadcnUI"/>
+<img src="./image/supabase.png" alt="Supabase" width="40" height="40" title="Supabase"/>
+<img src="./image/vite.png" alt="Vite" width="40" height="40" title="Vite.js"/>
+<img src="./image/vercel.png" alt="Vercel" width="40" height="40" title="Vercel"/>
+<img src="./image/figma.png" alt="Figma" width="40" height="40" title="Figma"/>
+<img src="./image/vscode.png" alt="VSCode" width="40" height="40" title="Visual Studio Code"/>
+<img src="./image/visualstudio.png" alt="VS" width="40" height="40" title="Visual Studio"/>
+<img src="./image/notepadpp.png" alt="NotepadPP" width="40" height="40" title="Notepad++"/>
+<img src="./image/virtualboxvm.png" alt="VirtualBoxVM" width="40" height="40" title="Oracle VM VirtualBox"/>
 
-<img src="./img/windowsos.png" alt="Windows" width="40" height="40" title="Windows OS"/>
-<img src="./img/linuxos.png" alt="Linux" width="40" height="40" title="Linux OS"/>
+<img src="./image/windowsos.png" alt="Windows" width="40" height="40" title="Windows OS"/>
+<img src="./image/linuxos.png" alt="Linux" width="40" height="40" title="Linux OS"/>
 <br><br/>
 
 # 🌱 Technologies I will learn:
 
-<img src="./img/CPP.png" alt="Cpp" width="40" height="40" title="C++"/>
-<img src="./img/Ruby.png" alt="Ruby" width="40" height="40" title="Ruby"/>
-<img src="./img/Deno.png" alt="Deno" width="40" height="40" title="Deno"/>
-<img src="./img/MongoDb.png" alt="MongoDb" width="40" height="40" title="Mongo Database"/>
+<img src="./image/cpp.png" alt="Cpp" width="40" height="40" title="C++"/>
+<img src="./image/ruby.png" alt="Ruby" width="40" height="40" title="Ruby"/>
+<img src="./image/deno.png" alt="Deno" width="40" height="40" title="Deno"/>
+<img src="./image/mongodb.png" alt="MongoDb" width="40" height="40" title="Mongo Database"/>
 <br><br/>
 
 # 📊 GitHub Stats:
