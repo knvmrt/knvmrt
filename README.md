@@ -68,9 +68,9 @@ _**I am a developer and technology enthusiast with a passion for software develo
 # 📊 GitHub Stats:
 
 <div>
-<img width=480 src="https://github-readme-stats.vercel.app/api?username=knvmrt&theme=radical&rank_icon=github&hide_border=true&include_all_commits=true&count_private=false&color=ffffff&border_radius=8" alt="streak stats"/>
-<img width=338 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knvmrt&theme=radical&hide_border=true&include_all_commits=true&count_private=false&langs_count=24&layout=compact&bg_color=141321&border_radius=8" alt="top langs" />
-<img width=480 src="https://github-readme-streak-stats.herokuapp.com/?user=knvmrt&theme=radical&hide_border=true&bg_color=141321&border_radius=8" alt="readme stats" />
+<img width=485 src="https://github-readme-stats.vercel.app/api?username=knvmrt&theme=radical&rank_icon=github&hide_border=true&include_all_commits=true&count_private=false&color=ffffff&border_radius=8" alt="streak stats"/>
+<img width=340 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knvmrt&theme=radical&hide_border=true&include_all_commits=true&count_private=false&langs_count=24&layout=compact&bg_color=141321&border_radius=8" alt="top langs" />
+<img width=485 src="https://github-readme-streak-stats.herokuapp.com/?user=knvmrt&theme=radical&hide_border=true&bg_color=141321&border_radius=8" alt="readme stats" />
 
 <img width=100% src="https://github-readme-activity-graph.vercel.app/graph?username=knvmrt&bg_color=141321&color=7a1c8d&line=b300a7&point=ff94f6&area=true&hide_border=true&border_radius=8" alt="knvmrt activity graph"/>
 </div>
