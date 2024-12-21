@@ -68,9 +68,9 @@ _**I am a developer and technology enthusiast with a passion for software develo
 # 📊 GitHub Stats:
 
 <div>
-<img width=450 src="https://github-readme-stats.vercel.app/api?username=knvmrt&theme=radical&rank_icon=github&hide_border=true&include_all_commits=true&count_private=false&color=ffffff&border_radius=8" alt="streak stats"/>
+<img width=460 src="https://github-readme-stats.vercel.app/api?username=knvmrt&theme=radical&rank_icon=github&hide_border=true&include_all_commits=true&count_private=false&color=ffffff&border_radius=8" alt="streak stats"/>
 <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=knvmrt&theme=radical&hide_border=true&include_all_commits=true&count_private=false&langs_count=24&layout=compact&bg_color=141321&border_radius=8" alt="top langs" />
-<img width=450 src="https://github-readme-streak-stats.herokuapp.com/?user=knvmrt&theme=radical&hide_border=true&bg_color=141321&border_radius=8" alt="readme stats" />
+<img width=460 src="https://github-readme-streak-stats.herokuapp.com/?user=knvmrt&theme=radical&hide_border=true&bg_color=141321&border_radius=8" alt="readme stats" />
  <br><br/>
 </div>
 
