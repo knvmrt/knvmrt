@@ -70,12 +70,12 @@ _**I am a developer and technology enthusiast with a passion for software develo
 # 📊 GitHub Stats:
 
 <div>
-<img width=480 align="top" src="https://github-readme-stats.vercel.app/api?username=knvmrt&theme=radical&rank_icon=github&hide_border=true&include_all_commits=true&count_private=false&color=ffffff&border_radius=8" alt="streak stats"/>
-<img width=340 align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knvmrt&theme=radical&hide_border=true&include_all_commits=true&count_private=false&langs_count=24&layout=compact&bg_color=141321&border_radius=8" alt="top langs" />
-<img width=480 src="https://github-readme-streak-stats.herokuapp.com/?user=knvmrt&theme=radical&hide_border=true&bg_color=141321&border_radius=8" alt="readme stats" />
+<img width=480 align="top" src="https://github-readme-stats.vercel.app/api?username=knvmrt&show_icons=true&include_all_commits=true&count_private=false&title_color=FE428E&text_color=F8F8F8&icon_color=FE428E&bg_color=0E1117&hide_border=true&border_radius=8&rank_icon=github" alt="streak stats"/>
+<img width=340 align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knvmrt&hide_border=true&include_all_commits=true&count_private=false&langs_count=24&layout=compact&border_radius=8&title_color=FE428E&bg_color=0E1117&text_color=F8F8F8" alt="top langs" />
+<img width=480 src="https://github-readme-streak-stats.herokuapp.com/?user=knvmrt&stroke=F8F8F8&background=0E1117&ring=FE428E&fire=FFAE00&currStreakNum=FFFFFF&currStreakLabel=FFAE00&sideNums=FE428E&sideLabels=FE428E&dates=F8F8F8&hide_border=true&border_radius=8" alt="readme stats" />
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=knvmrt&bg_color=141321&color=7a1c8d&line=b300a7&point=ff94f6&area=true&hide_border=true&border_radius=8" alt="knvmrt activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=knvmrt&bg_color=0E1117&title_color=FE428E&line=FE428E&point=F8F8F8&area=true&hide_border=true&border_radius=8&color-text=ffffff" alt="knvmrt activity graph"/>
 
 ---
 
