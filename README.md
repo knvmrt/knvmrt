@@ -54,6 +54,7 @@ _**I am a developer and technology enthusiast with a passion for software develo
 <img src="./image/visualstudio.png" alt="VS" width="40" height="40" title="Visual Studio"/>
 <img src="./image/notepadpp.png" alt="NotepadPP" width="40" height="40" title="Notepad++"/>
 <img src="./image/virtualboxvm.png" alt="VirtualBoxVM" width="40" height="40" title="Oracle VM VirtualBox"/>
+<img src="./image/markdown.png" alt="Markdown" width="40" height="40" title="Markdown"/>
 
 <img src="./image/windowsos.png" alt="Windows" width="40" height="40" title="Windows OS"/> <img src="./image/linuxos.png" alt="Linux" width="40" height="40" title="Linux OS"/>
 <br><br/>
