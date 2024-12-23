@@ -1,7 +1,7 @@
 ![Banner](https://i.imgur.com/cIJwTmG.png)
 [![Ads Banner](https://i.imgur.com/jyP3tto.png)](https://github.com/knvmrt/my-developedia-azerbaijan)
 
-<h1 style="color:#FE428E;">😊 About Me:</h1>
+# 😊 About Me:
 
 😊 _**Hello, I'm Murad. My first introduction to the software world started in 2017 by developing simple Discord bots. This process made me realize my interest in software. However, at that time, I had difficulty in progressing due to lack of technical knowledge and took a break for a while and turned to the world of design. I developed myself especially in the field of graphic design and revealed my creativity in projects as a professional graphic designer in the field of graphic design. In 2020, although I was working as a graphic designer, I tried to enter the software world, but this time I was insufficient in some subjects, I gave up again due to lack of information, and it was even more difficult because I was working in the design field at that time.**_ 
 
