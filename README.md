@@ -77,6 +77,30 @@ _**I am a developer and technology enthusiast with a passion for software develo
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=knvmrt&bg_color=0E1117&title_color=FE428E&line=FE428E&point=F8F8F8&area=true&area_color=B028C5&hide_title=false&custom_title=Murad%20Gahramanov's%20Activity%20Graph&hide_border=true&border_radius=8&color-text=ffffff&days=40&&grid=true" alt="knvmrt activity graph"/>
 
+# 📌Pinned Projects:
+
+<table style="background:#0E1117; border-radius:8px; ">
+
+  <tr>
+    <td style="vertical-align: top; border: none; padding:0px;">
+      <a href="https://github.com/knvmrt/my-developedia-azerbaijan" ><img src="https://github-readme-stats.vercel.app/api/pin/?username=knvmrt&repo=my-developedia-azerbaijan&title_color=FE428E&text_color=F8F8F8&icon_color=FFAE00&bg_color=0E1117&hide_border=true&locale=en&border_radius=8" alt="Repository 1"></a>
+    </td>
+    <td style="vertical-align: top; border: none; padding:0px;">
+      <a href="https://github.com/knvmrt/course-application-system" ><img src="https://github-readme-stats.vercel.app/api/pin/?username=knvmrt&repo=course-application-system&title_color=FE428E&text_color=F8F8F8&icon_color=FFAE00&bg_color=0E1117&hide_border=true&locale=en&border_radius=8" alt="Repository 2"></a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="vertical-align: top; border: none; padding:0px;">
+      <a href="https://github.com/knvmrt/web-calculator" ><img src="https://github-readme-stats.vercel.app/api/pin/?username=knvmrt&repo=web-calculator&title_color=FE428E&text_color=F8F8F8&icon_color=FFAE00&bg_color=0E1117&hide_border=true&locale=en&border_radius=8" alt="Repository 3"></a>
+    </td>
+    <td style="vertical-align: top; border: none; padding:0px;">
+      <a href="https://github.com/knvmrt/web-live-clock-display" ><img src="https://github-readme-stats.vercel.app/api/pin/?username=knvmrt&repo=web-live-clock-display&title_color=FE428E&text_color=F8F8F8&icon_color=FFAE00&bg_color=0E1117&hide_border=true&locale=en&border_radius=8" alt="Repository 4"></a>
+    </td>
+  </tr>
+
+</table>
+
 ---
 
 <!-- [![knvmrt](https://visitcount.itsvg.in/api?id=knvmrt&icon=6&color=11)](https://github.com/knvmrt/) 
