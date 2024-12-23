@@ -1,7 +1,7 @@
 ![Banner](https://i.imgur.com/cIJwTmG.png)
 [![Ads Banner](https://i.imgur.com/jyP3tto.png)](https://github.com/knvmrt/my-developedia-azerbaijan)
 
-# 😊 About Me:
+# ![😊About Me](https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=24&duration=2000&pause=1&color=FE428E&multiline=true&repeat=false&width=161&height=35&lines=😊+About+Me%3A)
 
 😊 _**Hello, I'm Murad. My first introduction to the software world started in 2017 by developing simple Discord bots. This process made me realize my interest in software. However, at that time, I had difficulty in progressing due to lack of technical knowledge and took a break for a while and turned to the world of design. I developed myself especially in the field of graphic design and revealed my creativity in projects as a professional graphic designer in the field of graphic design. In 2020, although I was working as a graphic designer, I tried to enter the software world, but this time I was insufficient in some subjects, I gave up again due to lack of information, and it was even more difficult because I was working in the design field at that time.**_ 
 
@@ -12,9 +12,8 @@ _**As a full-stack developer, I am constantly learning and improving myself. In 
 _**I am a developer and technology enthusiast with a passion for software development and cybersecurity, open to innovation, and love to learn.**_
 
 [![Codewars](https://www.codewars.com/users/knvmrt/badges/micro)](https://www.codewars.com/users/knvmrt)
-<br><br/>
 
-# 🌐 Socials:
+# ![🌐 Socials:](https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=24&duration=2000&pause=1&color=FE428E&multiline=true&repeat=false&width=135&height=35&lines=🌐+Socials%3A)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedIn&logoColor=white)](https://linkedin.com/in/knvmrt)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/knvmrt)
@@ -22,7 +21,7 @@ _**I am a developer and technology enthusiast with a passion for software develo
 [![GITLAB](https://img.shields.io/badge/GitLab-%23E1442A.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/knvmrt)
 [![Bento](https://img.shields.io/badge/Bento-%23151515.svg?style=for-the-badge&logo=bento&logoColor=white)](https://bento.me/knvmrt)
 
-# 💻 Software tech:
+# ![💻 Software tech:](https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=24&duration=2000&pause=1&color=FE428E&multiline=true&repeat=false&width=215&height=35&lines=💻+Software+Tech%3A)
 
 <img src="./image/html.png" alt="HTML" width="40" height="40" title="HTML"/> <img src="./image/css.png" alt="CSS" width="40" height="40" title="CSS"/> 
 <img src="./image/sass.png" alt="SASS" width="40" height="40" title="SASS / SCSS"/> 
@@ -58,16 +57,14 @@ _**I am a developer and technology enthusiast with a passion for software develo
 <img src="./image/markdown.png" alt="Markdown" width="40" height="40" title="Markdown"/>
 
 <img src="./image/windowsos.png" alt="Windows" width="40" height="40" title="Windows OS"/> <img src="./image/linuxos.png" alt="Linux" width="40" height="40" title="Linux OS"/>
-<br><br/>
 
-# 🌱 Technologies I will learn:
+# ![🌱 Technologies I will learn:](https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=24&duration=2000&pause=1&color=FE428E&multiline=true&repeat=false&width=330&height=35&lines=🌱+Technologies+I+will+learn%3A)
 
 <img src="./image/cpp.png" alt="Cpp" width="40" height="40" title="C++"/> <img src="./image/ruby.png" alt="Ruby" width="40" height="40" title="Ruby"/>
 <img src="./image/deno.png" alt="Deno" width="40" height="40" title="Deno"/>
 <img src="./image/mongodb.png" alt="MongoDb" width="40" height="40" title="Mongo Database"/>
-<br><br/>
 
-# 📊 GitHub Stats:
+# ![📊 GitHub Stats:](https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=24&duration=2000&pause=1&color=FE428E&multiline=true&repeat=false&width=200&height=35&lines=📊+GitHub+Stats%3A)
 
 <div>
 <img width=480 align="top" src="https://github-readme-stats.vercel.app/api?username=knvmrt&show_icons=true&include_all_commits=true&count_private=false&title_color=FE428E&text_color=F8F8F8&icon_color=FE428E&bg_color=0E1117&hide_border=true&border_radius=8&rank_icon=github" alt="streak stats"/>
@@ -77,7 +74,7 @@ _**I am a developer and technology enthusiast with a passion for software develo
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=knvmrt&bg_color=0E1117&title_color=FE428E&line=FE428E&point=F8F8F8&area=true&area_color=B028C5&hide_title=false&custom_title=Murad%20Gahramanov's%20Activity%20Graph&hide_border=true&border_radius=8&color-text=ffffff&days=40&&grid=true" alt="knvmrt activity graph"/>
 
-# 📌Pinned Projects:
+# ![📌 Pinned Projects:](https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=24&duration=2000&pause=1&color=FE428E&multiline=true&repeat=false&width=230&height=35&lines=📌+Pinned+Projects%3A)
 
 <table>
   <tr>
