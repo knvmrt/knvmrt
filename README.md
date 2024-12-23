@@ -79,27 +79,23 @@ _**I am a developer and technology enthusiast with a passion for software develo
 
 # 📌Pinned Projects:
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); background: #ff0000; max-width: 1200px; margin: 0 auto;">
-  <div style="background: #0E1117; ">
-    <a href="https://github.com/knvmrt/my-developedia-azerbaijan">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=knvmrt&repo=my-developedia-azerbaijan&title_color=FE428E&text_color=F8F8F8&icon_color=FFAE00&bg_color=0E1117&hide_border=true&locale=en&border_radius=8" alt="Repository 1">
-    </a>
-  </div>
-  <div style="background: #0E1117;">
-    <a href="https://github.com/knvmrt/course-application-system">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=knvmrt&repo=course-application-system&title_color=FE428E&text_color=F8F8F8&icon_color=FFAE00&bg_color=0E1117&hide_border=true&locale=en&border_radius=8" alt="Repository 2">
-    </a>
-  </div>
-  <div style="background: #0E1117;">
-    <a href="https://github.com/knvmrt/web-calculator">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=knvmrt&repo=web-calculator&title_color=FE428E&text_color=F8F8F8&icon_color=FFAE00&bg_color=0E1117&hide_border=true&locale=en&border_radius=8" alt="Repository 3">
-    </a>
-  </div>
-  <div style="background: #0E1117;">
-    <a href="https://github.com/knvmrt/web-live-clock-display">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=knvmrt&repo=web-live-clock-display&title_color=FE428E&text_color=F8F8F8&icon_color=FFAE00&bg_color=0E1117&hide_border=true&locale=en&border_radius=8" alt="Repository 4">
-    </a>
-  </div>
+<div style="background: #0E1117;">
+<div style="vertical-align: top;">
+  <a style="vertical-align: top;" href="https://github.com/knvmrt/my-developedia-azerbaijan">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=knvmrt&repo=my-developedia-azerbaijan&title_color=FE428E&text_color=F8F8F8&icon_color=FFAE00&bg_color=0E1117&hide_border=true&locale=en&border_radius=8" alt="Repository 1">
+      </a>
+  <a style="vertical-align: top;" href="https://github.com/knvmrt/course-application-system">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=knvmrt&repo=course-application-system&title_color=FE428E&text_color=F8F8F8&icon_color=FFAE00&bg_color=0E1117&hide_border=true&locale=en&border_radius=8" alt="Repository 2">
+      </a>
+</div>
+<div style="vertical-align: top;">
+  <a style="vertical-align: top;" href="https://github.com/knvmrt/web-calculator">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=knvmrt&repo=web-calculator&title_color=FE428E&text_color=F8F8F8&icon_color=FFAE00&bg_color=0E1117&hide_border=true&locale=en&border_radius=8" alt="Repository 3">
+      </a>
+  <a style="vertical-align: top;" href="https://github.com/knvmrt/web-live-clock-display">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=knvmrt&repo=web-live-clock-display&title_color=FE428E&text_color=F8F8F8&icon_color=FFAE00&bg_color=0E1117&hide_border=true&locale=en&border_radius=8" alt="Repository 4">
+      </a>
+</div>
 </div>
 
 ---
