@@ -75,7 +75,7 @@ _**I am a developer and technology enthusiast with a passion for software develo
 <img width=480 src="https://github-readme-streak-stats.herokuapp.com/?user=knvmrt&stroke=F8F8F8&background=0E1117&ring=FE428E&fire=FFAE00&currStreakNum=FFFFFF&currStreakLabel=FFAE00&sideNums=FE428E&sideLabels=FE428E&dates=F8F8F8&hide_border=true&border_radius=8" alt="readme stats" />
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=knvmrt&bg_color=0E1117&title_color=FE428E&line=FE428E&point=F8F8F8&area=true&hide_border=true&border_radius=8&color-text=ffffff" alt="knvmrt activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=knvmrt&bg_color=0E1117&title_color=FE428E&line=FE428E&point=F8F8F8&area=true&area_color=B028C5&hide_title=false&custom_title=Murad%20Gahramanov's%20Activity%20Graph&hide_border=true&border_radius=8&color-text=ffffff&days=40&&grid=true" alt="knvmrt activity graph"/>
 
 ---
 
