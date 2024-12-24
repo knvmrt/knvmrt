@@ -23,20 +23,20 @@ _**I am a developer and technology enthusiast with a passion for software develo
 
 # ![💻 Software tech:](https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=24&duration=2000&pause=1&color=FE428E&multiline=true&repeat=false&width=215&height=35&lines=💻+Software+Tech%3A)
 
-<img class="icons" src="./image/html.png" alt="HTML" width="40" height="40" title="HTML"/> <img src="./image/css.png" alt="CSS" width="40" height="40" title="CSS"/> 
-<img class="icons" src="./image/sass.png" alt="SASS" width="40" height="40" title="SASS / SCSS"/> 
-<img class="icons" src="./image/less.png" alt="LESS" width="40" height="40" title="LESS"/> 
-<img class="icons" src="./image/bootsratp.png" alt="Bootstrap" width="40" height="40" title="Bootstrap"/> 
-<img class="icons" src="./image/tailwindcss.png" alt="Tailwindcss" width="40" height="40" title="Tailwindcss"/> 
-<img class="icons" class="icons" src="./image/javascript.png" alt="JavaScript" width="40" height="40" title="JavaScript"/> 
-<img class="icons" src="./image/typescript.png" alt="TypeScript" width="40" height="40" title="TypeScript"/> 
-<img class="icons" src="./image/react.png" alt="React" width="40" height="40" title="React.js"/> 
-<img class="icons" src="./image/next.png" alt="Next" width="40" height="40" title="Next.js"/> 
-<img class="icons" src="./image/redux.png" alt="Redux" width="40" height="40" title="Redux / Redux ToolKit"/> 
-<img class="icons" src="./image/jquery.png" alt="jQuery" width="40" height="40" title="jQuery"/> 
+<img src="./image/html.png" alt="HTML" width="40" height="40" title="HTML"/> <img src="./image/css.png" alt="CSS" width="40" height="40" title="CSS"/> 
+<img src="./image/sass.png" alt="SASS" width="40" height="40" title="SASS / SCSS"/> 
+<img src="./image/less.png" alt="LESS" width="40" height="40" title="LESS"/> 
+<img src="./image/bootsratp.png" alt="Bootstrap" width="40" height="40" title="Bootstrap"/> 
+<img src="./image/tailwindcss.png" alt="Tailwindcss" width="40" height="40" title="Tailwindcss"/> 
+<img src="./image/javascript.png" alt="JavaScript" width="40" height="40" title="JavaScript"/> 
+<img src="./image/typescript.png" alt="TypeScript" width="40" height="40" title="TypeScript"/> 
+<img src="./image/react.png" alt="React" width="40" height="40" title="React.js"/> 
+<img src="./image/next.png" alt="Next" width="40" height="40" title="Next.js"/> 
+<img src="./image/redux.png" alt="Redux" width="40" height="40" title="Redux / Redux ToolKit"/> 
+<img src="./image/jquery.png" alt="jQuery" width="40" height="40" title="jQuery"/> 
 
-<img class="icons" src="./image/csharp.png" alt="CSharp" width="40" height="40" title="C#"/> <img src="./image/dotnet.png" alt="DotNet" width="40" height="40" title=".NET"/>
-<img class="icons" src="./image/msql.png" alt="MS-SQL" width="40" height="40" title="MS-SQL"/>
+<img src="./image/csharp.png" alt="CSharp" width="40" height="40" title="C#"/> <img src="./image/dotnet.png" alt="DotNet" width="40" height="40" title=".NET"/>
+<img src="./image/msql.png" alt="MS-SQL" width="40" height="40" title="MS-SQL"/>
 
 <img src="./image/npm.png" alt="NPM" width="40" height="40" title="NPM"/> <img src="./image/nuget.png" alt="NuGet" width="40" height="40" title="NuGet"/>
 <img src="./image/git.png" alt="Git" width="40" height="40" title="Git"/>
@@ -110,9 +110,3 @@ _**I am a developer and technology enthusiast with a passion for software develo
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=%23ffffff)
 -->
 
-<style>
-    .icons:hover {
-        transform: scale(1.3);
-        transition: transform 0.1s ease-in-out;
-    }
-</style>
