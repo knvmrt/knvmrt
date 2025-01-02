@@ -15,7 +15,7 @@ _**I am a developer and technology enthusiast with a passion for software develo
 
 # ![🌐 Socials:](https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=24&duration=2000&pause=1&color=FE428E&multiline=true&repeat=false&width=135&height=35&lines=🌐+Socials%3A)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedIn&logoColor=white)](https://linkedin.com/in/knvmrt)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/knvmrt)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/knvmrt)
 [![Behance](https://img.shields.io/badge/Behance-%231769ff.svg?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/knvmrt)
 [![GITLAB](https://img.shields.io/badge/GitLab-%23E1442A.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/knvmrt)
