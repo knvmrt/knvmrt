@@ -76,7 +76,7 @@ _**I am a developer and technology enthusiast with a passion for software develo
 
 # ![📌 Pinned Projects:](https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=24&duration=2000&pause=1&color=FE428E&multiline=true&repeat=false&width=230&height=35&lines=📌+Pinned+Projects%3A)
 
-<table>
+
   <tr>
     <td style="vertical-align: top; border: none; padding:0px;">
       <a href="https://github.com/knvmrt/my-developedia-azerbaijan" ><img src="https://github-readme-stats.vercel.app/api/pin/?username=knvmrt&repo=my-developedia-azerbaijan&title_color=FE428E&text_color=F8F8F8&icon_color=FFAE00&bg_color=0E1117&hide_border=true&locale=en&border_radius=8" alt="Repository 1"></a>
@@ -85,8 +85,7 @@ _**I am a developer and technology enthusiast with a passion for software develo
       <a href="https://github.com/knvmrt/course-application-system" ><img src="https://github-readme-stats.vercel.app/api/pin/?username=knvmrt&repo=course-application-system&title_color=FE428E&text_color=F8F8F8&icon_color=FFAE00&bg_color=0E1117&hide_border=true&locale=en&border_radius=8" alt="Repository 2"></a>
     </td>
   </tr>
-</table>
-<table style="background:#0E1117; border-radius:8px; ">
+
   <tr>
     <td style="vertical-align: top; border: none; padding:0px;">
       <a href="https://github.com/knvmrt/web-calculator" ><img src="https://github-readme-stats.vercel.app/api/pin/?username=knvmrt&repo=web-calculator&title_color=FE428E&text_color=F8F8F8&icon_color=FFAE00&bg_color=0E1117&hide_border=true&locale=en&border_radius=8" alt="Repository 3"></a>
@@ -95,6 +94,8 @@ _**I am a developer and technology enthusiast with a passion for software develo
       <a href="https://github.com/knvmrt/web-live-clock-display" ><img src="https://github-readme-stats.vercel.app/api/pin/?username=knvmrt&repo=web-live-clock-display&title_color=FE428E&text_color=F8F8F8&icon_color=FFAE00&bg_color=0E1117&hide_border=true&locale=en&border_radius=8" alt="Repository 4"></a>
     </td>
   </tr>
+
+
   <tr>
     <td style="vertical-align: top; border: none; padding:0px;">
       <a href="https://github.com/knvmrt/mg-markdown-generator" ><img src="https://github-readme-stats.vercel.app/api/pin/?username=knvmrt&repo=mg-markdown-generator&title_color=FE428E&text_color=F8F8F8&icon_color=FFAE00&bg_color=0E1117&hide_border=true&locale=en&border_radius=8" alt="Repository 3"></a>
@@ -103,7 +104,6 @@ _**I am a developer and technology enthusiast with a passion for software develo
       <a href="https://github.com/knvmrt/snake-game-web" ><img src="https://github-readme-stats.vercel.app/api/pin/?username=knvmrt&repo=snake-game-web&title_color=FE428E&text_color=F8F8F8&icon_color=FFAE00&bg_color=0E1117&hide_border=true&locale=en&border_radius=8" alt="Repository 4"></a>
     </td>
   </tr>
-</table>
 
 ---
 
