@@ -95,6 +95,14 @@ _**I am a developer and technology enthusiast with a passion for software develo
       <a href="https://github.com/knvmrt/web-live-clock-display" ><img src="https://github-readme-stats.vercel.app/api/pin/?username=knvmrt&repo=web-live-clock-display&title_color=FE428E&text_color=F8F8F8&icon_color=FFAE00&bg_color=0E1117&hide_border=true&locale=en&border_radius=8" alt="Repository 4"></a>
     </td>
   </tr>
+  <tr>
+    <td style="vertical-align: top; border: none; padding:0px;">
+      <a href="https://github.com/knvmrt/mg-markdown-generator" ><img src="https://github-readme-stats.vercel.app/api/pin/?username=knvmrt&repo=mg-markdown-generator&title_color=FE428E&text_color=F8F8F8&icon_color=FFAE00&bg_color=0E1117&hide_border=true&locale=en&border_radius=8" alt="Repository 3"></a>
+    </td>
+    <td style="vertical-align: top; border: none; padding:0px;">
+      <a href="https://github.com/knvmrt/snake-game-web" ><img src="https://github-readme-stats.vercel.app/api/pin/?username=knvmrt&repo=snake-game-web&title_color=FE428E&text_color=F8F8F8&icon_color=FFAE00&bg_color=0E1117&hide_border=true&locale=en&border_radius=8" alt="Repository 4"></a>
+    </td>
+  </tr>
 </table>
 
 ---
