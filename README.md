@@ -106,7 +106,7 @@ _**I am a developer and technology enthusiast with a passion for software develo
     </td>
   </tr>
 </table>
-
+<a href="https://kofe.al/@knvmrt"> <img src="./image/buymeacoffee.png" alt="buymeacoffee" width="auto" height="30" title="Buy me a coffee"/> </a>
 
 ---
 
