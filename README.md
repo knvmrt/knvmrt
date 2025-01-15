@@ -1,5 +1,5 @@
 ![Banner](https://i.imgur.com/cIJwTmG.png)
-[![Ads Banner](https://i.imgur.com/ougsZXK.png)](https://github.com/knvmrt/my-developedia-azerbaijan)
+[![Ads Banner](https://i.imgur.com/VEnpmF0.png)](https://github.com/knvmrt/my-developedia-azerbaijan)
 
 # ![😊About Me](https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=24&duration=2000&pause=1&color=FE428E&multiline=true&repeat=false&width=161&height=35&lines=😊+About+Me%3A)
 
