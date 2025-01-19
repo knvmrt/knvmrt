@@ -51,7 +51,6 @@ _**I am a developer and technology enthusiast with a passion for software develo
 <img src="./image/figma.png" alt="Figma" width="40" height="40" title="Figma"/>
 <img src="./image/vscode.png" alt="VSCode" width="40" height="40" title="Visual Studio Code"/>
 <img src="./image/visualstudio.png" alt="VS" width="40" height="40" title="Visual Studio"/>
-<img src="./image/windsurf.png" alt="windsurf" width="40" height="40" title="Windsurf IDE"/>
 <img src="./image/notepadpp.png" alt="NotepadPP" width="40" height="40" title="Notepad++"/>
 <img src="./image/virtualboxvm.png" alt="VirtualBoxVM" width="40" height="40" title="Oracle VM VirtualBox"/>
 <img src="./image/markdown.png" alt="Markdown" width="40" height="40" title="Markdown"/>
