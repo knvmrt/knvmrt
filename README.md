@@ -1,5 +1,6 @@
-![Banner](https://i.imgur.com/cIJwTmG.png)
-[![Ads Banner](https://i.imgur.com/VEnpmF0.png)](https://github.com/knvmrt/my-developedia-azerbaijan)
+![Banner](./image/knvmrt-banner.avif)
+
+<a href="https://github.com/knvmrt/my-developedia-azerbaijan"><img src="./image/mda.avif" alt="My Developedia Azerbaijan" title="My Developedia Azerbaijan"/></a>
 
 # ![😊About Me](https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=24&duration=2000&pause=1&color=FE428E&multiline=true&repeat=false&width=161&height=35&lines=😊+About+Me%3A)
 
@@ -19,49 +20,53 @@ _**I am a developer and technology enthusiast with a passion for software develo
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/knvmrt)
 [![Behance](https://img.shields.io/badge/Behance-%231769ff.svg?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/knvmrt)
 [![GITLAB](https://img.shields.io/badge/GitLab-%23E1442A.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/knvmrt)
-<a href="https://knvmrt.vercel.app/"> <img src="./image/knvmrt-portfolio.jpg" alt="knvmrt" width="98" height="28" title="KNVMRT Portfolio"/> </a>
+<a href="https://knvmrt.vercel.app/"> <img src="./image/knvmrt-portfolio.avif" alt="knvmrt" width="98" height="28" title="KNVMRT Portfolio"/> </a>
 
 # ![💻 Software tech:](https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=24&duration=2000&pause=1&color=FE428E&multiline=true&repeat=false&width=215&height=35&lines=💻+Software+Tech%3A)
 
-<img src="./image/html.png" alt="HTML" width="40" height="40" title="HTML"/> <img src="./image/css.png" alt="CSS" width="40" height="40" title="CSS"/> 
-<img src="./image/sass.png" alt="SASS" width="40" height="40" title="SASS / SCSS"/> 
-<img src="./image/less.png" alt="LESS" width="40" height="40" title="LESS"/> 
-<img src="./image/bootsratp.png" alt="Bootstrap" width="40" height="40" title="Bootstrap"/> 
-<img src="./image/tailwindcss.png" alt="Tailwindcss" width="40" height="40" title="Tailwindcss"/> 
-<img src="./image/javascript.png" alt="JavaScript" width="40" height="40" title="JavaScript"/> 
-<img src="./image/typescript.png" alt="TypeScript" width="40" height="40" title="TypeScript"/> 
-<img src="./image/react.png" alt="React" width="40" height="40" title="React.js"/> 
-<img src="./image/next.png" alt="Next" width="40" height="40" title="Next.js"/> 
-<img src="./image/redux.png" alt="Redux" width="40" height="40" title="Redux / Redux ToolKit"/> 
-<img src="./image/jquery.png" alt="jQuery" width="40" height="40" title="jQuery"/> 
+<img src="./image/html.avif" alt="HTML" width="40" height="40" title="HTML"/> <img src="./image/css.avif" alt="CSS" width="40" height="40" title="CSS"/> 
+<img src="./image/sass.avif" alt="SASS" width="40" height="40" title="SASS / SCSS"/> 
+<img src="./image/less.avif" alt="LESS" width="40" height="40" title="LESS"/> 
+<img src="./image/bootsratp.avif" alt="Bootstrap" width="40" height="40" title="Bootstrap"/> 
+<img src="./image/tailwindcss.avif" alt="Tailwindcss" width="40" height="40" title="Tailwindcss"/> 
+<img src="./image/materialui.avif" alt="Material UI" width="40" height="40" title="Material UI"/> 
+<img src="./image/javascript.avif" alt="JavaScript" width="40" height="40" title="JavaScript"/> 
+<img src="./image/typescript.avif" alt="TypeScript" width="40" height="40" title="TypeScript"/> 
+<img src="./image/react.avif" alt="React" width="40" height="40" title="React.js"/> 
+<img src="./image/next.avif" alt="Next" width="40" height="40" title="Next.js"/> 
+<img src="./image/redux.avif" alt="Redux" width="40" height="40" title="Redux / Redux ToolKit"/> 
+<img src="./image/jquery.avif" alt="jQuery" width="40" height="40" title="jQuery"/> 
+<img src="./image/markdown.avif" alt="Markdown" width="40" height="40" title="Markdown"/>
 
-<img src="./image/csharp.png" alt="CSharp" width="40" height="40" title="C#"/> <img src="./image/dotnet.png" alt="DotNet" width="40" height="40" title=".NET"/>
-<img src="./image/msql.png" alt="MS-SQL" width="40" height="40" title="MS-SQL"/>
+<img src="./image/csharp.avif" alt="CSharp" width="40" height="40" title="C#"/> <img src="./image/dotnet.avif" alt="DotNet" width="40" height="40" title=".NET"/>
+<img src="./image/msql.avif" alt="MS-SQL" width="40" height="40" title="MS-SQL"/>
+<img src="./image/bashshell.avif" alt="BASH Shell Script" width="40" height="40" title="BASH Shell Script"/>
 
-<img src="./image/npm.png" alt="NPM" width="40" height="40" title="NPM"/> <img src="./image/nuget.png" alt="NuGet" width="40" height="40" title="NuGet"/>
-<img src="./image/git.png" alt="Git" width="40" height="40" title="Git"/>
-<img src="./image/github.png" alt="GitHub" width="40" height="40" title="GitHub"/>
-<img src="./image/gitlab.png" alt="GitLab" width="40" height="40" title="GitLab"/>
-<img src="./image/docker.png" alt="Docker" width="40" height="40" title="Docker"/>
-<img src="./image/postman.png" alt="Postman" width="40" height="40" title="Postman"/>
-<img src="./image/shadcn.png" alt="ShadcnUI" width="40" height="40" title="ShadcnUI"/>
-<img src="./image/supabase.png" alt="Supabase" width="40" height="40" title="Supabase"/>
-<img src="./image/vite.png" alt="Vite" width="40" height="40" title="Vite.js"/>
-<img src="./image/vercel.png" alt="Vercel" width="40" height="40" title="Vercel"/>
-<img src="./image/figma.png" alt="Figma" width="40" height="40" title="Figma"/>
-<img src="./image/vscode.png" alt="VSCode" width="40" height="40" title="Visual Studio Code"/>
-<img src="./image/visualstudio.png" alt="VS" width="40" height="40" title="Visual Studio"/>
-<img src="./image/notepadpp.png" alt="NotepadPP" width="40" height="40" title="Notepad++"/>
-<img src="./image/virtualboxvm.png" alt="VirtualBoxVM" width="40" height="40" title="Oracle VM VirtualBox"/>
-<img src="./image/markdown.png" alt="Markdown" width="40" height="40" title="Markdown"/>
+<img src="./image/npm.avif" alt="NPM" width="40" height="40" title="NPM"/> <img src="./image/nuget.avif" alt="NuGet" width="40" height="40" title="NuGet"/>
+<img src="./image/git.avif" alt="Git" width="40" height="40" title="Git"/>
+<img src="./image/github.avif" alt="GitHub" width="40" height="40" title="GitHub"/>
+<img src="./image/gitlab.avif" alt="GitLab" width="40" height="40" title="GitLab"/>
+<img src="./image/docker.avif" alt="Docker" width="40" height="40" title="Docker"/>
+<img src="./image/postman.avif" alt="Postman" width="40" height="40" title="Postman"/>
+<img src="./image/shadcn.avif" alt="ShadcnUI" width="40" height="40" title="ShadcnUI"/>
+<img src="./image/supabase.avif" alt="Supabase" width="40" height="40" title="Supabase"/>
+<img src="./image/vite.avif" alt="Vite" width="40" height="40" title="Vite.js"/>
+<img src="./image/vercel.avif" alt="Vercel" width="40" height="40" title="Vercel"/>
+<img src="./image/figma.avif" alt="Figma" width="40" height="40" title="Figma"/>
+<img src="./image/vscode.avif" alt="VSCode" width="40" height="40" title="Visual Studio Code"/>
+<img src="./image/visualstudio.avif" alt="VS" width="40" height="40" title="Visual Studio"/>
+<img src="./image/notepadpp.avif" alt="NotepadPP" width="40" height="40" title="Notepad++"/>
+<img src="./image/vimide.avif" alt="Vim IDE" width="40" height="40" title="Vim IDE"/>
 
-<img src="./image/windowsos.png" alt="Windows" width="40" height="40" title="Windows OS"/> <img src="./image/linuxos.png" alt="Linux" width="40" height="40" title="Linux OS"/>
+<img src="./image/windowsos.avif" alt="Windows" width="40" height="40" title="Windows OS"/> 
+<img src="./image/linuxos.avif" alt="Linux" width="40" height="40" title="Linux OS"/>
+<img src="./image/virtualboxvm.avif" alt="VirtualBoxVM" width="40" height="40" title="Oracle VM VirtualBox"/>
 
 # ![🌱 Technologies I will learn:](https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=24&duration=2000&pause=1&color=FE428E&multiline=true&repeat=false&width=330&height=35&lines=🌱+Technologies+I+will+learn%3A)
 
-<img src="./image/cpp.png" alt="Cpp" width="40" height="40" title="C++"/> <img src="./image/ruby.png" alt="Ruby" width="40" height="40" title="Ruby"/>
-<img src="./image/deno.png" alt="Deno" width="40" height="40" title="Deno"/>
-<img src="./image/mongodb.png" alt="MongoDb" width="40" height="40" title="Mongo Database"/>
+<img src="./image/cpp.avif" alt="Cpp" width="40" height="40" title="C++"/> <img src="./image/ruby.avif" alt="Ruby" width="40" height="40" title="Ruby"/>
+<img src="./image/deno.avif" alt="Deno" width="40" height="40" title="Deno"/>
+<img src="./image/mongodb.avif" alt="MongoDb" width="40" height="40" title="Mongo Database"/>
 
 # ![📊 GitHub Stats:](https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=24&duration=2000&pause=1&color=FE428E&multiline=true&repeat=false&width=200&height=35&lines=📊+GitHub+Stats%3A)
 
@@ -105,7 +110,7 @@ _**I am a developer and technology enthusiast with a passion for software develo
     </td>
   </tr>
 </table>
-<a href="https://kofe.al/@knvmrt"> <img src="https://i.imgur.com/2nSVp1k.png" alt="buymeacoffee" width="auto" height="30" title="Buy me a coffee"/> </a>
+<a href="https://kofe.al/@knvmrt"> <img src="./image/buymecoffee.avif" alt="buymeacoffee" width="auto" height="30" title="Buy me a coffee"/> </a>
 
 ---
 
