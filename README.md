@@ -58,8 +58,7 @@ _**I am a developer and technology enthusiast with a passion for software develo
 <img src="./image/notepadpp.avif" alt="NotepadPP" width="40" height="40" title="Notepad++"/>
 <img src="./image/vimide.avif" alt="Vim IDE" width="40" height="40" title="Vim IDE"/>
 
-<img src="./image/windowsos.avif" alt="Windows" width="40" height="40" title="Windows OS"/> 
-<img src="./image/linuxos.avif" alt="Linux" width="40" height="40" title="Linux OS"/>
+<img src="./image/windowsos.avif" alt="Windows" width="40" height="40" title="Windows OS"/> <img src="./image/linuxos.avif" alt="Linux" width="40" height="40" title="Linux OS"/>
 <img src="./image/virtualboxvm.avif" alt="VirtualBoxVM" width="40" height="40" title="Oracle VM VirtualBox"/>
 
 # ![🌱 Technologies I will learn:](https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=24&duration=2000&pause=1&color=FE428E&multiline=true&repeat=false&width=330&height=35&lines=🌱+Technologies+I+will+learn%3A)
