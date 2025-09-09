@@ -63,9 +63,7 @@ _**I am a developer and technology enthusiast with a passion for software develo
 
 # ![🌱 Technologies I will learn:](https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=24&duration=2000&pause=1&color=FE428E&multiline=true&repeat=false&width=330&height=35&lines=🌱+Technologies+I+will+learn%3A)
 
-<img src="./image/cpp.avif" alt="Cpp" width="40" height="40" title="C++"/> <img src="./image/ruby.avif" alt="Ruby" width="40" height="40" title="Ruby"/>
-<img src="./image/deno.avif" alt="Deno" width="40" height="40" title="Deno"/>
-<img src="./image/mongodb.avif" alt="MongoDb" width="40" height="40" title="Mongo Database"/>
+<img src="./image/nodejs.avif" alt="Node JS" width="40" height="40" title="Node.js"/> <img src="./image/cpp.avif" alt="Cpp" width="40" height="40" title="C++"/> 
 
 # ![📊 GitHub Stats:](https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=24&duration=2000&pause=1&color=FE428E&multiline=true&repeat=false&width=200&height=35&lines=📊+GitHub+Stats%3A)
 
