@@ -100,7 +100,7 @@ _**I am a developer and technology enthusiast with a passion for software develo
 <table style="background:#0E1117; border-radius:8px; ">
   <tr>
     <td style="vertical-align: top; border: none; padding:0px;">
-      <a href="https://github.com/knvmrt/web-calculator" ><img src="https://github-readme-stats.vercel.app/api/pin/?username=knvmrt&repo=web-calculator&title_color=FE428E&text_color=F8F8F8&icon_color=FFAE00&bg_color=0E1117&hide_border=true&locale=en&border_radius=8" alt="Repository 3"></a>
+      <a href="https://github.com/knvmrt/web-tetris-game" ><img src="https://github-readme-stats.vercel.app/api/pin/?username=knvmrt&repo=web-tetris-game&title_color=FE428E&text_color=F8F8F8&icon_color=FFAE00&bg_color=0E1117&hide_border=true&locale=en&border_radius=8" alt="Repository 3"></a>
     </td>
     <td style="vertical-align: top; border: none; padding:0px;">
       <a href="https://github.com/knvmrt/snake-game-web" ><img src="https://github-readme-stats.vercel.app/api/pin/?username=knvmrt&repo=snake-game-web&title_color=FE428E&text_color=F8F8F8&icon_color=FFAE00&bg_color=0E1117&hide_border=true&locale=en&border_radius=8" alt="Repository 4"></a>
